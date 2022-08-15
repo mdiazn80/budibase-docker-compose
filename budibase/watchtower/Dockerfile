@@ -1,0 +1,3 @@
+ARG WATCHTOWER_VERSION
+
+FROM containrrr/watchtower:${WATCHTOWER_VERSION}

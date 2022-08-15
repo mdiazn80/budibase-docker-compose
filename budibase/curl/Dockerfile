@@ -1,0 +1,3 @@
+ARG CURL_VERSION
+
+FROM curlimages/curl:${CURL_VERSION}
